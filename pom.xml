@@ -90,7 +90,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-13-127-114-146.ap-south-1.compute.amazonaws.com:8081/repository/Mavenwebrelease/</url>
+	      <url>http://ec2-13-235-19-59.ap-south-1.compute.amazonaws.com:8081/repository/mvn-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
